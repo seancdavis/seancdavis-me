@@ -18,7 +18,7 @@
     "analytics": "^0.8.0",
     "autoprefixer": "^10.4.13",
     "aws-sdk": "^2.1262.0",
-    "axios": "^1.2.1",
+    "axios": "^1.7.9",
     "chalk": "^4.0.0",
     "clipboard": "^2.0.11",
     "cssnano": "^5.1.14",
