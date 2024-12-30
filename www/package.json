@@ -10,7 +10,7 @@
     "@analytics/google-analytics": "^1.0.5",
     "@hirusi/eleventy-plugin-safe-external-links": "^0.14.3",
     "@imgix/js-core": "^3.8.0",
-    "@lhci/cli": "^0.11.0",
+    "@lhci/cli": "^0.14.0",
     "@netlify/plugin-sitemap": "^0.8.1",
     "@seancdavis/netlify-plugin-github-dispatch": "^0.1.0",
     "@seancdavis/netlify-plugin-jest": "^0.1.0",
