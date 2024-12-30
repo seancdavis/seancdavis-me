@@ -16,7 +16,7 @@
     "@seancdavis/netlify-plugin-jest": "^0.1.0",
     "algoliasearch": "^4.15.0",
     "analytics": "^0.8.0",
-    "autoprefixer": "^10.4.13",
+    "autoprefixer": "^10.4.20",
     "aws-sdk": "^2.1262.0",
     "axios": "^1.2.1",
     "chalk": "^4.0.0",
